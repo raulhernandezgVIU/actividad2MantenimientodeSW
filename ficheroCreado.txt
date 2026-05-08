@@ -1,4 +1,2 @@
 “Fichero de ejemplo”
 Línea añadida para modificacion
-Línea añadida para modificación 2 de ejemplo
-Línea añadida para modificación 2 de ejemplo
